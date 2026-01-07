@@ -2,3 +2,9 @@ data/
 models/
 decrypted_files/
 __pycache__
+keys/
+*.pkl
+logs/
+.vscode/
+*.pyc
+.env
