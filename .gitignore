@@ -1,8 +1,10 @@
 data/
 models/
 decrypted_files/
+encrypted_files/
 __pycache__
-keys/
+*.pdf
+*.pem
 *.pkl
 logs/
 .vscode/

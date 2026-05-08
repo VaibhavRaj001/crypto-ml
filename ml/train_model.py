@@ -6,7 +6,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report, confusion_matrix
 
-from feature_extraction import extract_features
+from ml.feature_extraction import extract_features
 
 ORIGINAL_DIR = "data/original"
 TAMPERED_DIR = "data/tampered"

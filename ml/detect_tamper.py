@@ -1,7 +1,7 @@
 import os
 import pickle
 import numpy as np
-from feature_extraction import extract_features
+from ml.feature_extraction import extract_features
 
 MODEL_PATH = "models/tamper_model.pkl"
 
